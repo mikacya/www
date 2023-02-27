@@ -1,0 +1,10 @@
+{
+  "short_name": "未完成シアノタイプ",
+  "name": "未完成シアノタイプ　公式サイト",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
