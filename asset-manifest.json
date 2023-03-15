@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.f9211c1e.css",
-    "main.js": "/static/js/main.5638a383.js",
+    "main.js": "/static/js/main.623cbb9f.js",
     "static/js/845.decbe03a.chunk.js": "/static/js/845.decbe03a.chunk.js",
     "static/js/787.c47577da.chunk.js": "/static/js/787.c47577da.chunk.js",
+    "static/media/横浜成海_2.wav": "/static/media/横浜成海_2.a65d060882c2cd9c62f5.wav",
     "static/media/櫻田聖二郎_1.wav": "/static/media/櫻田聖二郎_1.eafb7a1897d7300b58d4.wav",
+    "static/media/白鳥乃以_2.wav": "/static/media/白鳥乃以_2.851785347f6cccdd3584.wav",
+    "static/media/櫻田聖二郎_2.wav": "/static/media/櫻田聖二郎_2.855bdb5f36b117d6dfa3.wav",
     "static/media/白鳥乃以_1.wav": "/static/media/白鳥乃以_1.dabac35a84b8bc3c62f2.wav",
     "static/media/横浜成海_1.wav": "/static/media/横浜成海_1.697928992bdfa0395a60.wav",
     "static/media/top-pc.jpg": "/static/media/top-pc.d1e3216e312381f9d3f4.jpg",
@@ -156,12 +159,12 @@
     "static/media/intro-bottom-line.svg": "/static/media/intro-bottom-line.27734f9395ff104d49cdf63a0dc594b7.svg",
     "static/media/intro-top-line.svg": "/static/media/intro-top-line.a6442ac4e6e190ec662dac7fbd51a8be.svg",
     "main.f9211c1e.css.map": "/static/css/main.f9211c1e.css.map",
-    "main.5638a383.js.map": "/static/js/main.5638a383.js.map",
+    "main.623cbb9f.js.map": "/static/js/main.623cbb9f.js.map",
     "845.decbe03a.chunk.js.map": "/static/js/845.decbe03a.chunk.js.map",
     "787.c47577da.chunk.js.map": "/static/js/787.c47577da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9211c1e.css",
-    "static/js/main.5638a383.js"
+    "static/js/main.623cbb9f.js"
   ]
 }
